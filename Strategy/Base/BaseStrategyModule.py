@@ -1,0 +1,2 @@
+class BaseStrategyModule(object):
+    pass

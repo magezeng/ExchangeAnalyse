@@ -1,0 +1,2 @@
+class BaseExchange():
+    pass
